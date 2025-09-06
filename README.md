@@ -1,39 +1,53 @@
 # 🚴‍♂️ Bike Purchase Dashboard
 
-An interactive dashboard built in **Microsoft Excel** to analyze customer data and understand the factors affecting bike purchases.
+An interactive dashboard built in **Microsoft Excel** to analyze customer demographics and understand the key factors influencing bike purchases.
 
 ---
 
-## 📊 Dashboard Highlights
+## 📊 Dashboard Overview
+The dashboard provides clear insights using **KPIs, Charts, and Slicers**:
+
 - **KPIs (Cards):**
-  - Total Customers
-  - Purchased Bikes
-  - Average Income
-  - Average Age
+  - Total Customers: **1000**
+  - Average Age: **44**
+  - Average Income: **$56,360**
+  - Purchased Bikes: **481**
 
 - **Charts:**
-  - Donut Chart → Purchases by Gender  
-  - Column Chart → Purchases by Age Bracket  
-  - Bar Chart → Purchases by Education  
-  - Column Chart → Purchases by Region  
-  - Clustered Column → Income vs Bike Purchase  
-  - Stacked Column → Cars vs Bike Purchase  
-   
+  - Donut Chart → Purchases by Gender
+  - Column Chart → Purchases by Age Bracket
+  - Bar Chart → Purchases by Education
+  - Column Chart → Purchases by Region
+  - 3D Column → Income vs Bike Purchase
+  - 3D Column → Car Ownership vs Bike Purchase
 
-- **Slicers:** Region, Gender, Age Bracket, Marital Status  
+- **Slicers:**
+  - Region
+  - Gender
+  - Marital Status
+  - Age Brackets
+  - Education
 
 ---
 
-## 🎯 Purpose
-Provide clear insights into customer behavior and the key factors that influence bike purchases.
+## 🎯 Insights
+- Middle-aged customers represent the largest group of bike buyers.  
+- Income shows a noticeable impact on bike purchasing decisions.  
+- Region and education level also play significant roles.  
 
 ---
 
 ## 🛠 Tools Used
-- Microsoft Excel (Pivot Tables, Charts, Slicers)  
-- Dataset: Bike Buyers Dataset  
+- Microsoft Excel  
+  - Pivot Tables  
+  - Pivot Charts  
+  - Slicers  
+  - Conditional Formatting  
+
+
+
 
 ---
 
 ## 👤 Author
-**Ahmed Hany**  
+**Ahmed Hany**
