@@ -15,10 +15,10 @@ An interactive dashboard built in **Microsoft Excel** to analyze customer data a
   - Donut Chart → Purchases by Gender  
   - Column Chart → Purchases by Age Bracket  
   - Bar Chart → Purchases by Education  
-  - Tree Map → Purchases by Region  
+  - Column Chart → Purchases by Region  
   - Clustered Column → Income vs Bike Purchase  
   - Stacked Column → Cars vs Bike Purchase  
-  - Line/Bar → Commute Distance vs Bike Purchase  
+   
 
 - **Slicers:** Region, Gender, Age Bracket, Marital Status  
 
